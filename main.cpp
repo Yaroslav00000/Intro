@@ -1,7 +1,9 @@
 #include<iostream>
+#include <Windows.h>
 using namespace std;
 
 int main() {
-
-	return 0;
+    cout << "Hello, Word!" << endl;
+    cout << "\\\\Dennis Ritchi\\\\" << endl;
+    return 0;
 }
